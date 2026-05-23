@@ -1,3 +1,3 @@
 # Library Database System
 
-![Diagram](/diagram.pdf)
+![Diagram](/erd-diagram.png)
