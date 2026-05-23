@@ -1,3 +1,3 @@
 # Library Database System
 
-![Diagram](./diagram.png)
+![Diagram](/diagram.png)
